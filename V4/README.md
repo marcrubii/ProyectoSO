@@ -1,0 +1,1 @@
+La V4 es prácticamente la versión 3, entre exámenes parciales y controles, no hemos podido avanzar en el proyecto. Hemos intentado implementar lo que nos pedía pero resulta que nos dan mucho errores. Seguiremos trabajando en la nueva versión para mejorarla. 
