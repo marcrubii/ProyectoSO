@@ -458,7 +458,8 @@ int main(int argc, char *argv[]) {
 	
 	serv_adr.sin_addr.s_addr = htonl(INADDR_ANY);
 	// escucharemos en el port 50051
-	serv_adr.sin_port = htons(50055);
+	int puerto = 50026;
+	serv_adr.sin_port = htons(puerto);
 	if (bind(sock_listen, (struct sockaddr *) &serv_adr, sizeof(serv_adr)) < 0)
 		printf ("Error al bind\n");
 	if (listen(sock_listen, 2) < 0)
@@ -471,7 +472,7 @@ int main(int argc, char *argv[]) {
 		exit(1);
 	}
 	
-	conn = mysql_real_connect(conn,"localhost","root","mysql","T02_BBDD",0,NULL,0);
+	conn = mysql_real_connect(conn,"shiva2.upc.es","root","mysql","M6_BBDD",0,NULL,0);
 	if (conn==NULL){
 		printf("Error al crear la connexión: %u %s\n",mysql_errno(conn),mysql_error(conn));
 		exit(1);
