@@ -1,0 +1,149 @@
+C:\Users\Laia\Desktop\videojuego\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Laia\Desktop\videojuego\Trivial\bin\Debug\Trivial.exe
+C:\Users\Laia\Desktop\videojuego\Trivial\bin\Debug\Trivial.pdb
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.exe
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.pdb
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.Registro.resources
+C:\Users\Laia\Desktop\videojuego\Trivial\obj\Debug\Trivial.Consultas.resources
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\bin\Debug\Trivial.exe
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\bin\Debug\Trivial.pdb
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.exe
+C:\Users\Laia\Desktop\Trivial_v1\Trivial\obj\Debug\Trivial.pdb
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\bin\Debug\Trivial.exe.config
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\bin\Debug\Trivial.exe
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\bin\Debug\Trivial.pdb
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.exe
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Trivial_v2\Trivial_v2\Trivial\obj\Debug\Trivial.pdb
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Laia\Documents\UNI\3A\SO\TRIVIAL\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Invitacion.resources
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Tablero.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Invitacion.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Tablero.resources
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csprojAssemblyReference.cache
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Invitacion.resources
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Tablero.resources
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Laia\Documents\UNI\3A\SO\SUBIRGIT\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Prueba.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Prueba.resources
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Acceso.resources
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Invitacion.resources
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Prueba.resources
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.Tablero.resources
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\msi\Documents\UNI\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Inmaculada\Documents\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.RespuestaConsultas.resources
+C:\Users\bielg\OneDrive\Escriptori\3A\SO\Trivial_ProyectoSO\Cliente_Trivial\obj\Debug\Trivial.RespuestaConsultas.resources
+C:\Users\Bruno\Desktop\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Bruno\Desktop\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Bruno\Desktop\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormPrincipal.resources
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormInv.resources
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormPregunta.resources
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormConsultas.resources
+C:\Users\Bruno\Desktop\Cliente_Trivial\obj\Debug\Trivial.FormJuego.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormPrincipal.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormInv.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormPregunta.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormConsultas.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.FormJuego.resources
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Bruno\Desktop\Version Final\Cliente_Trivial\obj\Debug\Trivial.pdb
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\bin\Debug\Trivial.exe.config
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\bin\Debug\Trivial.exe
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\bin\Debug\Trivial.pdb
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.FormPrincipal.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.FormInv.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.Properties.Resources.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.FormPregunta.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.FormConsultas.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.FormJuego.resources
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.exe
+C:\Users\Marc\OneDrive\Escritorio\Proyecto-SO--vDef\Proyecto-SO--vDef\Cliente_Trivial\obj\Debug\Trivial.pdb
